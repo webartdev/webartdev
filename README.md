@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @webartdev => { in short `Elena` }
 - 👀 I’m interested in saving the planet through natural and artificial intelligence
-- 🌱 I’m currently learning `graphQL`
-- 💞️ I’m looking to collaborate on `full stack development projects`
+- 🌱 I’m currently learning `AWS services`
+- 💞️ I’m looking to collaborate on `react/graphQL full stack development projects`
 - 📫 Reach me at `websiteart@hotmail.com`
 
 <!---
